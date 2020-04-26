@@ -1,2 +1,0 @@
-# santosh-java
-for trainingsession
